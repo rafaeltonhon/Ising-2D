@@ -1,0 +1,5 @@
+lattice-mag.dat ! reading the input file name
+1                   ! tranzient time
+1000                       ! maximum time to be used in the correlation function
+1000
+200
